@@ -6,7 +6,7 @@ A sample demonstrating how to build a live avatar to assist in designing solutio
 
 [![Watch the Demo](https://img.youtube.com/vi/xx1HzRn4yuo/hqdefault.jpg)](https://www.youtube.com/watch?v=xx1HzRn4yuo)
 
-## 📁 Solution Architecture
+## 📁 Folder Structure
 
 ```
 CSA-AI-Coach/
